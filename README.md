@@ -1,5 +1,5 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-# Bobo
+# README-generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 - [Description](#description)
@@ -9,16 +9,16 @@
 - [Questions](#questions)
 
 ## Description
-It's a bobo time
+This is a JavaScript project that utilises node.js and the inquirer module to prompt users to provide answers that will be used for an automatically generated README.md file. It was created for the edX front-end developer bootcamp.
 
 ## Installation
-bobobobob
+n/a
 
 ## Usage
-wisely
+The user should respond to prompts in the integrated terminal. They will find their README output in the README.md file within the same directory.
 
 ## License
-This project is covered under a GNU GPL v3 license. 
+This project is covered under a MIT license. 
 
 ## Questions
-To learn more about me, or for any questions, feel free to contact me through GitHub [cgbeagent](https://github.com/cgbeagent), or email bobo@bobo.bo.
+To learn more about me, or for any questions, feel free to contact me through GitHub [cgbea](https://github.com/cgbea), or email cgbeagent@gmail.com.
