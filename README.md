@@ -11,8 +11,6 @@
 ## Description
 This is a JavaScript project that utilises node.js and the inquirer module to prompt users to provide answers that will be used for an automatically generated README.md file. It was created for the edX front-end developer bootcamp.
 
-![walkthrough](walkthrough.mp4)
-
 https://github.com/cgbea/README-generator/assets/151942177/e37b9be9-68f3-4cdf-b790-d69ec8f637fe
 
 
